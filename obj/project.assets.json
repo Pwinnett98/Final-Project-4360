@@ -1997,11 +1997,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\winne\\OneDrive\\Documents\\Spring 2024\\Analysis and design\\Final-Project-4360\\Final-Project-4360.csproj",
+      "projectUniqueName": "C:\\Users\\winne\\OneDrive\\Desktop\\CIDM4360\\Final-Project-4360\\Final-Project-4360.csproj",
       "projectName": "Final-Project-4360",
-      "projectPath": "C:\\Users\\winne\\OneDrive\\Documents\\Spring 2024\\Analysis and design\\Final-Project-4360\\Final-Project-4360.csproj",
+      "projectPath": "C:\\Users\\winne\\OneDrive\\Desktop\\CIDM4360\\Final-Project-4360\\Final-Project-4360.csproj",
       "packagesPath": "C:\\Users\\winne\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\winne\\OneDrive\\Documents\\Spring 2024\\Analysis and design\\Final-Project-4360\\obj\\",
+      "outputPath": "C:\\Users\\winne\\OneDrive\\Desktop\\CIDM4360\\Final-Project-4360\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\winne\\AppData\\Roaming\\NuGet\\NuGet.Config"

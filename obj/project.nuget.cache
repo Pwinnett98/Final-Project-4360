@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n+2h323/3di7XPXNFeIX/Yfv4eipa2n3tsbcwbPljeCxLpdCosapP6ArLQWN5erFFsTAo9+ijLQwrenvP96WpQ==",
+  "dgSpecHash": "CbKDHvh7PuU7Vh3+kFMLOm05+QPeOFoQmOGfiAJ+NrAQLw14eMLdK0//yxSet7TDTeQPILjOfnEuno0r/+JDpg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\winne\\OneDrive\\Documents\\Spring 2024\\Analysis and design\\Final-Project-4360\\Final-Project-4360.csproj",
+  "projectFilePath": "C:\\Users\\winne\\OneDrive\\Desktop\\CIDM4360\\Final-Project-4360\\Final-Project-4360.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\winne\\.nuget\\packages\\azure.communication.email\\1.0.1\\azure.communication.email.1.0.1.nupkg.sha512",
     "C:\\Users\\winne\\.nuget\\packages\\azure.core\\1.34.0\\azure.core.1.34.0.nupkg.sha512",
